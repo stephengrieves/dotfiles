@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
+	name = Stephen Grieves stephengrieves@gmail.com
